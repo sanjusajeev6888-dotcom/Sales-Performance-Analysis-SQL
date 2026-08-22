@@ -26,28 +26,19 @@ The analysis focuses on:
 - Analyzing monthly sales trends
 - Measuring month-over-month sales growth
 
-- 📁 Dataset
+## 📂 Dataset
 
-The project uses a relational sales database containing information
-about orders, products, categories, customers, salespersons, and
-regions.
+The dataset contains 5 related tables used for sales performance analysis:
 
-The data is analyzed using MySQL.
+| Table | Description |
+|---|---|
+| `customers.csv` | Customer information |
+| `products.csv` | Product details and pricing |
+| `categories.csv` | Product category information |
+| `salespersons.csv` | Salesperson information |
+| `orders.csv` | Order transactions, quantities, prices, discounts, and sales amounts |
 
-🗄️ Database Tables
-
-The project uses the following tables:
-
-| Table | Purpose |
-| Orders | Contains order and sales transaction information |
-| Products | Contains product details |
-| Categories | Contains product category information |
-| Customers | Contains customer information |
-| Salespersons | Contains salesperson information |
-- Calculating sales contribution percentages
-- Identifying top customers by region
-- Identifying important sales performance patterns
-
+The tables are connected using primary and foreign key relationships and are analyzed using MySQL.
 - 🧠 SQL Concepts Used
 
 ### Basic SQL
