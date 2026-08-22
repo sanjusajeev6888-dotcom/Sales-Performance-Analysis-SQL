@@ -1,0 +1,21 @@
+SalespersonID,SalespersonName,Region,ExperienceYears
+1,Salesperson 01,East,12
+2,Salesperson 02,East,9
+3,Salesperson 03,West,10
+4,Salesperson 04,East,7
+5,Salesperson 05,West,6
+6,Salesperson 06,North,3
+7,Salesperson 07,West,11
+8,Salesperson 08,South,10
+9,Salesperson 09,East,1
+10,Salesperson 10,South,9
+11,Salesperson 11,South,2
+12,Salesperson 12,South,9
+13,Salesperson 13,West,10
+14,Salesperson 14,South,2
+15,Salesperson 15,South,6
+16,Salesperson 16,North,2
+17,Salesperson 17,East,7
+18,Salesperson 18,South,12
+19,Salesperson 19,West,1
+20,Salesperson 20,North,5

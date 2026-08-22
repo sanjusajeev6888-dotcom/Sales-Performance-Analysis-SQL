@@ -1,0 +1,51 @@
+ProductID,ProductName,CategoryID,UnitPrice
+1,Wireless Mouse,1,6225.55
+2,Mechanical Keyboard,1,3595.2
+3,Bluetooth Speaker,1,6889.99
+4,USB-C Hub,1,5624.34
+5,Webcam,1,889.29
+6,Power Bank,1,7808.64
+7,Smartwatch,1,6124.95
+8,Office Chair,2,6320.6
+9,Study Desk,2,1155.69
+10,Bookshelf,2,3685.53
+11,Filing Cabinet,2,3060.76
+12,Conference Table,2,7425.11
+13,Visitor Chair,2,5204.34
+14,Notebook,3,6608.68
+15,Printer Paper,3,3630.8
+16,Stapler,3,1933.82
+17,Desk Organizer,3,4503.49
+18,Whiteboard,3,650.97
+19,Pen Set,3,6646.9
+20,Calculator,3,5108.57
+21,Electric Kettle,4,6100.99
+22,Coffee Maker,4,2933.03
+23,Air Cooler,4,7769.98
+24,Mixer Grinder,4,7161.0
+25,Table Fan,4,6260.31
+26,Toaster,4,1677.91
+27,Yoga Mat,5,3813.76
+28,Dumbbell Set,5,493.86
+29,Cricket Bat,5,1361.17
+30,Football,5,5511.93
+31,Tennis Racket,5,5996.38
+32,Skipping Rope,5,7744.95
+33,Formal Shirt,6,2707.73
+34,Polo T-Shirt,6,3058.11
+35,Jeans,6,3836.01
+36,Formal Trousers,6,1637.35
+37,Jacket,6,1169.88
+38,Sports Shoes,6,3884.28
+39,Business Analytics,7,1931.24
+40,SQL for Beginners,7,5408.04
+41,Power BI Guide,7,3581.64
+42,Excel Mastery,7,6686.52
+43,Marketing Basics,7,5647.08
+44,Python Fundamentals,7,2602.08
+45,Face Wash,8,6683.24
+46,Shampoo,8,6467.4
+47,Moisturizer,8,3191.71
+48,Sunscreen,8,2413.38
+49,Body Lotion,8,5507.59
+50,Perfume,8,1247.06
