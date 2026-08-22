@@ -117,37 +117,22 @@ The project answers business questions such as:
 
   📈 Key Analysis Areas
 
- Product Analysis
-- Highest-selling product
-- Lowest-selling product
-- Products performing above category average
+## 🔍 Key SQL Analysis
 
- Category Analysis
-- Highest-selling category
-- Category sales contribution
-- Monthly category ranking
-- Regional category contribution
+The project includes SQL analysis covering:
 
-Salesperson Analysis
-- Salesperson order volume
-- Salesperson sales performance
-- Salespersons performing above regional average
-
- Customer Analysis
-- Top customers by region
-- Customer sales performance
-
-Regional Analysis
-- Regional sales performance
-- Category contribution within each region
-
-Time-Based Analysis
-- Monthly sales
-- Monthly sales growth
-- Month-over-month growth
-- Running total sales
-- Highest-selling month
-- Highest monthly growth
+- Total sales and order performance
+- Monthly and yearly sales trends
+- Top-performing products
+- Product category performance
+- Customer purchase analysis
+- Salesperson performance and ranking
+- Sales contribution by salesperson
+- Discount and pricing analysis
+- Sales growth calculations
+- Ranking using SQL window functions
+- CTE-based analytical queries
+- Subquery-based business analysis
 
 - 🔍 Key Findings
 
