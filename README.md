@@ -180,12 +180,13 @@ The analysis identified several important sales patterns:
 - The month with the highest sales growth was **[Month/Year]** with
   **[Percentage]%** growth.
 
-   🛠️ Tools Used
+   ## 🛠️ Tools & Technologies
 
-- MySQL
-- MySQL Workbench
-- GitHub
-- SQL
+- **Database:** MySQL
+- **Language:** SQL
+- **Data Analysis:** Aggregation, Joins, Subqueries, CTEs, Window Functions
+- **Data Visualization:** Canva
+- **Version Control:** GitHub
 
 - 📂 Project Structure
 
