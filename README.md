@@ -39,7 +39,7 @@ The dataset contains 5 related tables used for sales performance analysis:
 | `orders.csv` | Order transactions, quantities, prices, discounts, and sales amounts |
 
 The tables are connected using primary and foreign key relationships and are analyzed using MySQL.
-- 🧠 SQL Concepts Used
+## 🧠 SQL Concepts Used
 
 ### Basic SQL
 - SELECT
@@ -95,7 +95,7 @@ The tables are connected using primary and foreign key relationships and are ana
 - Product Ranking
 - Category Ranking
 
-- ❓ Business Questions Answered
+## ❓ Business Questions Answered
 
 The project answers business questions such as:
 
@@ -134,7 +134,7 @@ The project includes SQL analysis covering:
 - CTE-based analytical queries
 - Subquery-based business analysis
 
-- 🔍 Key Findings
+## 🔍 Key Findings
 
 The analysis identified several important sales patterns:
 
