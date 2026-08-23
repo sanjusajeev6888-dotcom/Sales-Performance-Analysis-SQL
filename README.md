@@ -115,8 +115,6 @@ The project answers business questions such as:
 14. Which month experienced the highest sales growth?
 15. How are sales distributed across regions and categories?
 
-## 📈 Key Analysis Areas
-
 ## 🔍 Key SQL Analysis
 
 The project includes SQL analysis covering:
@@ -172,15 +170,16 @@ Sales-Performance-Analysis-SQL/
 ```
 
 ## ▶️ How to Run
-Install MySQL and MySQL Workbench.
-Create the required database.
-Create/import the required tables.
-Load the dataset into the database.
-Open Sales_Analysis_Project.sql.
-Execute the queries in MySQL Workbench.
-Review the results for each business question.
 
-💼 Skills Demonstrated
+1. Install MySQL and MySQL Workbench.
+2. Create the required database.
+3. Create/import the required tables.
+4. Load the dataset into the database.
+5. Open `Sales_Analysis_Project.sql`.
+6. Execute the queries in MySQL Workbench.
+7. Review the results for each business question.
+
+## 💼 Skills Demonstrated
 
 - SQL Data Analysis
 - Relational Database Analysis
@@ -199,10 +198,16 @@ Review the results for each business question.
 - Ranking
 - KPI Analysis
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This project demonstrates the use of SQL to transform raw sales
 transaction data into meaningful business insights.
+
+The analysis covers product, category, customer, salesperson,
+regional, and time-based sales performance.
+
+The project demonstrates practical SQL skills that can be applied
+to real-world business and sales analysis scenarios.
 
 ## ⭐ Project Highlights
 
@@ -212,9 +217,5 @@ transaction data into meaningful business insights.
 - Calculated monthly sales, month-over-month growth, running totals, and salesperson rankings.
 - Analyzed customer and product performance to identify key business trends.
 - Organized the complete project and dataset in GitHub for portfolio presentation.
-
-The analysis covers product, category, customer, salesperson,
-regional, and time-based sales performance.
-
 The project demonstrates practical SQL skills that can be applied
 to real-world business and sales analysis scenarios.
