@@ -164,18 +164,21 @@ The analysis identified several important sales patterns:
 - **Data Visualization:** Canva
 - **Version Control:** GitHub
 
-- 📂 Project Structure
+## 📁 Project Structure
 
 ```text
-SQL-Sales-Analysis-Project/
+Sales-Performance-Analysis-SQL/
+│
+├── Dataset/
+│   ├── README.md
+│   ├── categories.csv
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── products.csv
+│   └── salespersons.csv
 │
 ├── README.md
-│
-├── SQL/
-│   └── Sales_Analysis_Project.sql
-│
-└── Dataset/
-    └── Sales_Analysis_Dataset.xlsx
+└── Sales_Analysis_Project.sql
 
 # 13. How to Run
 
