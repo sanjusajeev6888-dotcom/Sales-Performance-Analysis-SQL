@@ -218,6 +218,15 @@ Add:
 This project demonstrates the use of SQL to transform raw sales
 transaction data into meaningful business insights.
 
+## ⭐ Project Highlights
+
+- Designed and analyzed a relational sales dataset using MySQL.
+- Performed sales, product, category, customer, salesperson, regional, and time-based analysis.
+- Used **INNER JOINs, GROUP BY, HAVING, subqueries, CTEs, and window functions** for business analysis.
+- Calculated monthly sales, month-over-month growth, running totals, and salesperson rankings.
+- Analyzed customer and product performance to identify key business trends.
+- Organized the complete project and dataset in GitHub for portfolio presentation.
+
 The analysis covers product, category, customer, salesperson,
 regional, and time-based sales performance.
 
