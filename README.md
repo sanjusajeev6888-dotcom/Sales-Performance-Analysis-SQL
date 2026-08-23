@@ -138,23 +138,23 @@ The project includes SQL analysis covering:
 
 The analysis identified several important sales patterns:
 
-- The highest-selling product was **[Product Name]** with total sales
-  of **[Amount]**.
+- The highest-selling product was **Skipping Rope** with total sales
+  of **568866.59**.
 
-- The lowest-selling product was **[Product Name]** with total sales
-  of **[Amount]**.
+- The lowest-selling product was **Dumbbell Set** with total sales
+  of **25977.04**.
 
-- The highest-selling category was **[Category Name]** with total sales
-  of **[Amount]**.
+- The highest-selling category was **Electronics** with total sales
+  of **1681954.10**.
 
 - The salesperson with the highest number of orders was
-  **[Salesperson Name]** with **[Number]** orders.
+  **Salesperson 03** with **33** orders.
 
-- The highest-selling month was **[Month/Year]** with total sales of
-  **[Amount]**.
+- The highest-selling month was **2025-04** with total sales of
+  **1292670.81**.
 
-- The month with the highest sales growth was **[Month/Year]** with
-  **[Percentage]%** growth.
+- The month with the highest sales growth was **2025-08** with
+  **48.71%** growth.
 
    ## 🛠️ Tools & Technologies
 
