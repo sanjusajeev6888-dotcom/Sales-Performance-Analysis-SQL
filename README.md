@@ -217,5 +217,3 @@ to real-world business and sales analysis scenarios.
 - Calculated monthly sales, month-over-month growth, running totals, and salesperson rankings.
 - Analyzed customer and product performance to identify key business trends.
 - Organized the complete project and dataset in GitHub for portfolio presentation.
-The project demonstrates practical SQL skills that can be applied
-to real-world business and sales analysis scenarios.
