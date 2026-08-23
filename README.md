@@ -180,20 +180,13 @@ Sales-Performance-Analysis-SQL/
 ├── README.md
 └── Sales_Analysis_Project.sql
 
-# 13. How to Run
-
-This is useful for recruiters who want to test your project.
-
-Add:
-
-```markdown
 ## ▶️ How to Run
 
 1. Install MySQL and MySQL Workbench.
 2. Create the required database.
 3. Create/import the required tables.
 4. Load the dataset into the database.
-5. Open `SQL/Sales_Analysis_Project.sql`.
+5. Open `Sales_Analysis_Project.sql`.
 6. Execute the queries in MySQL Workbench.
 7. Review the results for each business question.
 
