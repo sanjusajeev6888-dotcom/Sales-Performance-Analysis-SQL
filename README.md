@@ -1,20 +1,14 @@
-SQL Sales Analysis Project
+# SQL Sales Analysis Project
 
-📊 Project Overview
+## 📊 Project Overview
 
-This project analyzes sales data using MySQL to identify important
-business insights related to products, categories, customers,
-salespersons, regions, and monthly sales performance.
+This project analyzes sales data using MySQL to identify important business insights related to products, categories, customers, salespersons, regions, and monthly sales performance.
 
-The project contains 56 SQL queries ranging from basic SQL
-operations to advanced analytical queries using CTEs, subqueries,
-window functions, ranking, and sales growth calculations.
+The project contains 56 SQL queries ranging from basic SQL operations to advanced analytical queries using CTEs, subqueries, window functions, ranking, and sales growth calculations.
 
-🎯 Business Objective
+## 🎯 Business Objective
 
-The main objective of this project is to use SQL to analyze sales
-data and answer important business questions that can support
-better decision-making.
+The main objective of this project is to use SQL to analyze sales data and answer important business questions that can support better decision-making.
 
 The analysis focuses on:
 
@@ -39,9 +33,11 @@ The dataset contains 5 related tables used for sales performance analysis:
 | `orders.csv` | Order transactions, quantities, prices, discounts, and sales amounts |
 
 The tables are connected using primary and foreign key relationships and are analyzed using MySQL.
+
 ## 🧠 SQL Concepts Used
 
 ### Basic SQL
+
 - SELECT
 - WHERE
 - ORDER BY
@@ -50,6 +46,7 @@ The tables are connected using primary and foreign key relationships and are ana
 - LIMIT
 
 ### Aggregations
+
 - COUNT()
 - SUM()
 - AVG()
@@ -57,6 +54,7 @@ The tables are connected using primary and foreign key relationships and are ana
 - MAX()
 
 ### Filtering
+
 - HAVING
 - IN
 - NOT IN
@@ -64,14 +62,17 @@ The tables are connected using primary and foreign key relationships and are ana
 - LIKE
 
 ### Joins
+
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 
 ### Conditional Logic
+
 - CASE WHEN
 
 ### Advanced SQL
+
 - Subqueries
 - Common Table Expressions (CTEs)
 - Window Functions
@@ -83,10 +84,12 @@ The tables are connected using primary and foreign key relationships and are ana
 - Running Totals
 
 ### Date Analysis
+
 - YEAR()
 - MONTH()
 
 ### Data Analysis
+
 - Sales Growth
 - Month-over-Month Growth
 - Running Sales Total
@@ -166,7 +169,6 @@ Sales-Performance-Analysis-SQL/
 │
 ├── README.md
 └── Sales_Analysis_Project.sql
-
 ```
 
 ## ▶️ How to Run
@@ -200,14 +202,11 @@ Sales-Performance-Analysis-SQL/
 
 ## 🏁 Conclusion
 
-This project demonstrates the use of SQL to transform raw sales
-transaction data into meaningful business insights.
+This project demonstrates the use of SQL to transform raw sales transaction data into meaningful business insights.
 
-The analysis covers product, category, customer, salesperson,
-regional, and time-based sales performance.
+The analysis covers product, category, customer, salesperson, regional, and time-based sales performance.
 
-The project demonstrates practical SQL skills that can be applied
-to real-world business and sales analysis scenarios.
+The project demonstrates practical SQL skills that can be applied to real-world business and sales analysis scenarios.
 
 ## ⭐ Project Highlights
 
